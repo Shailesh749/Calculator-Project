@@ -1,0 +1,6 @@
+.container {
+  background-color: rgba(0, 0, 0, 0.181);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
