@@ -1,6 +1,14 @@
 .display {
-  margin: 10px;
-  width: 175px;
-  font-size: 25px;
-  border: 1px solid #999797;
+  margin: 10px auto;
+  display: grid;
+   width: 275px;
+    font-size: 25px;
+    background-color: #ffffff00;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+
+.display:focus-visible{
+  border: 2px solid #ffffff;
+  outline: none;
 }
